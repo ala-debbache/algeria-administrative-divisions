@@ -1,0 +1,350 @@
+[
+    {
+        "code": "01",
+        "label": "Adrar",
+        "label_ar": "أدرار",
+        "region_id": 4
+    },
+    {
+        "code": "02",
+        "label": "Chlef",
+        "label_ar": " الشلف",
+        "region_id": 4
+    },
+    {
+        "code": "03",
+        "label": "Laghouat",
+        "label_ar": "الأغواط",
+        "region_id": 2
+    },
+    {
+        "code": "04",
+        "label": "Oum El Bouaghi",
+        "label_ar": "أم البواقي",
+        "region_id": 1
+    },
+    {
+        "code": "05",
+        "label": "Batna",
+        "label_ar": "باتنة",
+        "region_id": 1
+    },
+    {
+        "code": "06",
+        "label": "Béjaïa",
+        "label_ar": " بجاية",
+        "region_id": 3
+    },
+    {
+        "code": "07",
+        "label": "Biskra",
+        "label_ar": "بسكرة",
+        "region_id": 1
+    },
+    {
+        "code": "08",
+        "label": "Béchar",
+        "label_ar": "بشار",
+        "region_id": 4
+    },
+    {
+        "code": "09",
+        "label": "Blida",
+        "label_ar": "البليدة",
+        "region_id": 3
+    },
+    {
+        "code": "10",
+        "label": "Bouira",
+        "label_ar": "البويرة",
+        "region_id": 3
+    },
+    {
+        "code": "11",
+        "label": "Tamanrasset",
+        "label_ar": "تمنراست",
+        "region_id": 4
+    },
+    {
+        "code": "12",
+        "label": "Tébessa",
+        "label_ar": "تبسة",
+        "region_id": 1
+    },
+    {
+        "code": "13",
+        "label": "Tlemcen",
+        "label_ar": "تلمسان",
+        "region_id": 2
+    },
+    {
+        "code": "14",
+        "label": "Tiaret",
+        "label_ar": "تيارت",
+        "region_id": 4
+    },
+    {
+        "code": "15",
+        "label": "Tizi Ouzou",
+        "label_ar": "تيزي وزو",
+        "region_id": 3
+    },
+    {
+        "code": "16",
+        "label": "Alger",
+        "label_ar": "الجزائر",
+        "region_id": 3
+    },
+    {
+        "code": "17",
+        "label": "Djelfa",
+        "label_ar": "الجلفة",
+        "region_id": 1
+    },
+    {
+        "code": "18",
+        "label": "Jijel",
+        "label_ar": "جيجل",
+        "region_id": 3
+    },
+    {
+        "code": "19",
+        "label": "Sétif",
+        "label_ar": "سطيف",
+        "region_id": 1
+    },
+    {
+        "code": "20",
+        "label": "Saïda",
+        "label_ar": "سعيدة",
+        "region_id": 2
+    },
+    {
+        "code": "21",
+        "label": "Skikda",
+        "label_ar": "سكيكدة",
+        "region_id": 3
+    },
+    {
+        "code": "22",
+        "label": "Sidi Bel Abbès",
+        "label_ar": "سيدي بلعباس",
+        "region_id": 3
+    },
+    {
+        "code": "23",
+        "label": "Annaba",
+        "label_ar": "عنابة",
+        "region_id": 3
+    },
+    {
+        "code": "24",
+        "label": "Guelma",
+        "label_ar": "قالمة",
+        "region_id": 3
+    },
+    {
+        "code": "25",
+        "label": "Constantine",
+        "label_ar": "قسنطينة",
+        "region_id": 1
+    },
+    {
+        "code": "26",
+        "label": "Médéa",
+        "label_ar": "المدية",
+        "region_id": 2
+    },
+    {
+        "code": "27",
+        "label": "Mostaganem",
+        "label_ar": "مستغانم",
+        "region_id": 3
+    },
+    {
+        "code": "28",
+        "label": "M'Sila",
+        "label_ar": "المسيلة",
+        "region_id": 2
+    },
+    {
+        "code": "29",
+        "label": "Mascara",
+        "label_ar": "معسكر",
+        "region_id": 2
+    },
+    {
+        "code": "30",
+        "label": "Ouargla",
+        "label_ar": "ورقلة",
+        "region_id": 4
+    },
+    {
+        "code": "31",
+        "label": "Oran",
+        "label_ar": "وهران",
+        "region_id": 3
+    },
+    {
+        "code": "32",
+        "label": "El Bayadh",
+        "label_ar": "البيض",
+        "region_id": 2
+    },
+    {
+        "code": "33",
+        "label": "Illizi",
+        "label_ar": "إليزي",
+        "region_id": 4
+    },
+    {
+        "code": "34",
+        "label": "Bordj Bou Arreridj",
+        "label_ar": "برج بوعريريج",
+        "region_id": 1
+    },
+    {
+        "code": "35",
+        "label": "Boumerdès",
+        "label_ar": "بومرداس",
+        "region_id": 3
+    },
+    {
+        "code": "36",
+        "label": "El Tarf",
+        "label_ar": "الطارف",
+        "region_id": 4
+    },
+    {
+        "code": "37",
+        "label": "Tindouf",
+        "label_ar": "تندوف",
+        "region_id": 4
+    },
+    {
+        "code": "38",
+        "label": "Tissemsilt",
+        "label_ar": "تيسمسيلت",
+        "region_id": 4
+    },
+    {
+        "code": "39",
+        "label": "El Oued",
+        "label_ar": "الوادي",
+        "region_id": 2
+    },
+    {
+        "code": "40",
+        "label": "Khenchela",
+        "label_ar": "خنشلة",
+        "region_id": 1
+    },
+    {
+        "code": "41",
+        "label": "Souk Ahras",
+        "label_ar": "سوق أهراس",
+        "region_id": 2
+    },
+    {
+        "code": "42",
+        "label": "Tipaza",
+        "label_ar": "تيبازة",
+        "region_id": 3
+    },
+    {
+        "code": "43",
+        "label": "Mila",
+        "label_ar": "ميلة",
+        "region_id": 1
+    },
+    {
+        "code": "44",
+        "label": "Aïn Defla",
+        "label_ar": "عين الدفلة",
+        "region_id": 1
+    },
+    {
+        "code": "45",
+        "label": "Naâma",
+        "label_ar": "النعامة",
+        "region_id": 2
+    },
+    {
+        "code": "46",
+        "label": "Aïn Témouchent",
+        "label_ar": "عين تيموشنت",
+        "region_id": 4
+    },
+    {
+        "code": "47",
+        "label": "Ghardaïa",
+        "label_ar": "غرداية",
+        "region_id": 2
+    },
+    {
+        "code": "48",
+        "label": "Relizane",
+        "label_ar": "غليزان",
+        "region_id": 2
+    },
+    {
+        "code": "49",
+        "label": "Timimoun",
+        "label_ar": "تيميمون",
+        "region_id": 4
+    },
+    {
+        "code": "50",
+        "label": "Bordj Badji Mokhtar",
+        "label_ar": "برج باجي مختار",
+        "region_id": 2
+    },
+    {
+        "code": "51",
+        "label": "Ouled Djellal",
+        "label_ar": "أولاد جلال",
+        "region_id": 1
+    },
+    {
+        "code": "52",
+        "label": "Béni Abbès",
+        "label_ar": "بني عباس",
+        "region_id": 4
+    },
+    {
+        "code": "53",
+        "label": "In Salah",
+        "label_ar": "عين صالح",
+        "region_id": 4
+    },
+    {
+        "code": "54",
+        "label": "In Guezzam",
+        "label_ar": "عين قزام",
+        "region_id": 4
+    },
+    {
+        "code": "55",
+        "label": "Touggourt",
+        "label_ar": "تقرت",
+        "region_id": 4
+    },
+    {
+        "code": "56",
+        "label": "Djanet",
+        "label_ar": "جانت",
+        "region_id": 4
+    },
+    {
+        "code": "57",
+        "label": "El Meghaier",
+        "label_ar": "المغير",
+        "region_id": 4
+    },
+    {
+        "code": "58",
+        "label": "El Menia",
+        "label_ar": "المنيعة",
+        "region_id": 4
+    }
+]
