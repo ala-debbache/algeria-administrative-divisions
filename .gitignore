@@ -1,0 +1,11 @@
+.git
+index.js
+node_modules
+package-lock.json
+package.json
+algeria_postcodes.json
+wilayas.json
+dairas.json
+communes.json
+postal-codes.json
+result.json
